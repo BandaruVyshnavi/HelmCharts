@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello aslfknas"
+echo "hello"
