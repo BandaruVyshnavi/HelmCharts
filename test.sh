@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "kjfnsdf"
+echo "hello please"
